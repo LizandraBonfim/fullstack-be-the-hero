@@ -1,0 +1,306 @@
+  765  ls
+  766  Documentos
+  767  cd Documentos
+  768  ls
+  769  cd oministack
+  770  ls
+  771  cd backend
+  772  ls
+  773  node index.js
+  774  cd
+  775  cd Documentos
+  776  cd OminiStack
+  777  ls
+  778  cd backend
+  779  ls
+  780  cd Documentos
+  781  cd OminiStack
+  782  cd Documentos
+  783  ls
+  784  cd OminiStack
+  785  ls
+  786  node index.js
+  787  npm init -y
+  788  npm install express
+  789  node index.js
+  790  npm install express
+  791  node express
+  792  node index.js
+  793  cd
+  794  ld
+  795  ls
+  796  cd Documentos
+  797  ls
+  798  cd oministack
+  799  ls
+  800  cd aulas
+  801  ls
+  802  cd backend
+  803  ls
+  804  node index.js
+  805  cd aulas
+  806  cd
+  807  cd Documentos
+  808  cd oministack
+  809  cd aulas
+  810  npx create-react-app frontend
+  811  snap info npx
+  812  npm install -g create-react-app
+  813  npx create-react-app teste
+  814  sudo ln -s
+  815  cd frontend
+  816  npm start
+  817  cd www
+  818  cd Documentos
+  819  cd oministack
+  820  mkdir aulas
+  821  mkdir backend
+  822  cd backend
+  823  ls
+  824  npm init -y
+  825  ls
+  826  node index.js
+  827  ls
+  828  node index.js
+  829  cd
+  830  cd Documentos
+  831  ls
+  832  cd oministack
+  833  cd aulas
+  834  npx create-react-app frontend
+  835  npx
+  836  npx create-react-app frontend
+  837  sudo npx create-react-app frontend
+  838  npx -v
+  839  sudo npx create-react-app frontend
+  840  ls
+  841  cd backend
+  842  cd..
+  843  cd ..
+  844  npx create-react-app
+  845  npx
+  846  npm
+  847  hpm -h
+  848  npx create-react-app frontend
+  849  create-react-app frontend
+  850  yarn global add create-react-app
+  851  yarn
+  852  yarn -v
+  853  npx create-react-app frontend
+  854  create-react-app frontend
+  855  cd frontend
+  856  node -v
+  857  npx
+  858  npx -v
+  859  npm -h
+  860  yarn
+  861  yarn global add create-react-app
+  862  npm install -g create-react-app
+  863  sudo npm install -g create-react-app
+  864  node index.html
+  865  run index.html
+  866  tsc -w
+  867  npm i --save-dev @types/jquery
+  868  cd ..
+  869  ls
+  870  cd backend
+  871  npx knex init
+  872  knex 
+  873  knex -v
+  874  node -h
+  875  npx
+  876  npm
+  877  npm -h
+  878  sudo apt-get install nodejs npm
+  879  ls
+  880  cd backend
+  881  node index.js
+  882  node index.js run
+  883  npm install nodemon -D
+  884  npm start
+  885  npm install knex --save
+  886  npm install sqlite3
+  887  npx knex init
+  888  npm install knex
+  889  npx knex init
+  890  npx knex
+  891  knex init
+  892  sudo npx knex init
+  893  sudo knex init
+  894  npx knex init
+  895  node npx
+  896  npx knex init
+  897  node -v
+  898  node -h
+  899  tsc --init
+  900  npm init -y
+  901  npm i --save-dev
+  902  npm i --save-dev typescript, browserify tsify vinyl-source-stream del
+  903  npm i --save-dev gulp typescript browserify tsify vinyl-source-stream del
+  904  npm run build
+  905  npm i --save-dev jquery @types/jquery
+  906  npm run build
+  907  cd backend
+  908  npx knex init
+  909  npx
+  910  npm -h
+  911  npx
+  912  sudo snap info npx
+  913  npm install -g npx
+  914  npx
+  915  sudo npm install -g npx
+  916  npx
+  917  npx knex init
+  918  npm start
+  919  npm start
+  920  ls
+  921  cd backend
+  922  npm start
+  923  ls
+  924  cd src
+  925  node index.js
+  926  npm start
+  927  nodemon src/index.js
+  928  nodemon
+  929  npm start
+  930  npx migrate:make create_ongs
+  931  npx knex migrate:make create_ongs
+  932  npx knex migrate:run
+  933  npx knex migrate:latest
+  934  npx knex migrate:make create_incidents
+  935  ls
+  936  cd backend
+  937  nodemon src/index.js
+  938  npm start
+  939  cd backend
+  940  node src/index.js
+  941  npx knex migrate:latest
+  942  npm start
+  943  npx knex migrate:latest
+  944  npm start
+  945  reset
+  946  npm start
+  947  npm install cors
+  948  cors
+  949  npm install cors
+  950  git push -u origin master
+  951  git login
+  952  git --help
+  953  git config
+  954  git config user
+  955  git config --global user
+  956  git config --global
+  957  git config get
+  958  git config --get
+  959  git config --get user
+  960  git push
+  961  git push -u origin master
+  962  git config --global user.name
+  963  ls
+  964  cd ..
+  965  ls
+  966  git push
+  967  git push --set-upstream origin master
+  968  npm start
+  969  npm install react-icons
+  970  npm start
+  971  npm install react-router-fom
+  972  npm install react-router-dom
+  973  git -v
+  974  git
+  975  git --version
+  976  git config --global user.email "lizandra.oliveirasouza@hotmail.com"
+  977  git config --global user.name "Lizandra Bonfim"
+  978  git config --global user.name "LizandraBonfim"
+  979  cd ..
+  980  cd frontend
+  981  npm start
+  982  npm install axios
+  983  npm start
+  984  cd ..
+  985  cd backend
+  986  npm start
+  987  ifconfig
+  988  npm install -g expo-cli
+  989  sudo npm install -g expo-cli
+  990  expo-cli 
+  991  expo
+  992  node -v
+  993  node --version
+  994  sudo apt remove typescript\
+  995  typescript
+  996  sudo apt remove note-typescript
+  997  tsc
+  998  node-typescript
+  999  node -v
+ 1000  typescript
+ 1001  tsc -v
+ 1002  sudo apt remove tsc
+ 1003  sudo apt uninstall tsc
+ 1004  sudo apt remove nodejs
+ 1005  node -v
+ 1006  tsc
+ 1007  reboot
+ 1008  ls
+ 1009  cd aulas
+ 1010  ls
+ 1011  cd frontend
+ 1012  npm start
+ 1013  cd ..backend
+ 1014  cd ../backend
+ 1015  npm start
+ 1016  tsc
+ 1017  node -v
+ 1018  node
+ 1019  sudo apt install nodejs
+ 1020  node -v
+ 1021  sudo apt remove nodejs
+ 1022  sudo snap install node --classic
+ 1023  sudo snap install node --channel=13/stable --classic
+ 1024  node -v
+ 1025  node
+ 1026  reboot
+ 1027  cd Documentos
+ 1028  cd oministack
+ 1029  ls
+ 1030  cd aulas
+ 1031  cd backend
+ 1032  npm start
+ 1033  code .
+ 1034  npm start
+ 1035  npm install
+ 1036  npm start
+ 1037  knex
+ 1038  history
+ 1039  history kn
+ 1040  history -h
+ 1041  history 
+ 1042  npm install
+ 1043  reset
+ 1044  history
+liz@liz-werter:~/Documentos/oministack/aulas/backend$ history -c npm
+liz@liz-werter:~/Documentos/oministack/aulas/backend$ history -h
+bash: history: -h: opção inválida
+history: uso: history [-c] [-d POSIÇÃO] [n] ou history -anrw [ARQUIVO] ou history -ps ARG [ARG...]
+liz@liz-werter:~/Documentos/oministack/aulas/backend$ history -ps npm
+liz@liz-werter:~/Documentos/oministack/aulas/backend$ history >> historico.txt
+liz@liz-werter:~/Documentos/oministack/aulas/backend$ history | >> historico.txt
+liz@liz-werter:~/Documentos/oministack/aulas/backend$ history | jq
+46
+parse error: Invalid numeric literal at line 1, column 15
+liz@liz-werter:~/Documentos/oministack/aulas/backend$ history 
+   46  history -h
+   47  npm
+   48  history >> historico.txt
+   49  history | >> historico.txt
+   50  history | jq
+   51  history 
+liz@liz-werter:~/Documentos/oministack/aulas/backend$ history
+   46  history -h
+   47  npm
+   48  history >> historico.txt
+   49  history | >> historico.txt
+   50  history | jq
+   51  history 
+   52  history
+liz@liz-werter:~/Documentos/oministack/aulas/backend$ 
