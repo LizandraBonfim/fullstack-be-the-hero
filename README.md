@@ -26,5 +26,19 @@ Mobile : {
   axios
 }
 
+### Adicionando cards
+
+<img src="https://github.com/LizandraBonfim/fullstack-be-the-hero/blob/master/frontend/src/assets/CadastroNovo.png?raw=true" height="300" width="400" />
+
+### Cadastro de ONG'S
+
+<img src="https://github.com/LizandraBonfim/fullstack-be-the-hero/blob/master/frontend/src/assets/CadastroOng.png?raw=true" height="300" width="400" />
+
+### Cadastro de incidentes
+
+<img src="https://github.com/LizandraBonfim/fullstack-be-the-hero/blob/master/frontend/src/assets/cadastro.png?raw=true" height="300" width="400" />
 
 
+### Pagina Home
+
+<img src="https://github.com/LizandraBonfim/fullstack-be-the-hero/blob/master/frontend/src/assets/home.png?raw=true" height="300" width="400" />
